@@ -1,0 +1,2 @@
+This is the content of allowed_file2.txt.
+It can contain any text.
